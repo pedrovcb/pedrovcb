@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá Erick 🥸
+
+
+![IMG-4961-1-1](https://github.com/user-attachments/assets/ec103446-6b3a-4373-a1dd-9dc3fb2e1261)
+
 
 <!--
 **pedrovcb/pedrovcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

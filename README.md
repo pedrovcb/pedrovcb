@@ -1,11 +1,7 @@
-## Olá Erick 🥸
-
-
-![IMG-4961-1-1](https://github.com/user-attachments/assets/ec103446-6b3a-4373-a1dd-9dc3fb2e1261)
-
-
+![Pi7_GIF_CMP-ezgif com-optimize](https://github.com/user-attachments/assets/a5d70e37-a9ce-4bfa-9ebe-e375af6a59dc)
 <!--
-**pedrovcb/pedrovcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pedrovcb/pedrovcb** is a ✨ _special_ ✨ repository because its `READM
+E.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

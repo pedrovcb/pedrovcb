@@ -1,4 +1,4 @@
-![Pi7_GIF_CMP-ezgif com-optimize](https://github.com/user-attachments/assets/a5d70e37-a9ce-4bfa-9ebe-e375af6a59dc)
+![gif_typewriter](https://github.com/user-attachments/assets/7b7d49c4-bfd5-4043-be47-f26b4751f6fd)
 <!--
 **pedrovcb/pedrovcb** is a ✨ _special_ ✨ repository because its `READM
 E.md` (this file) appears on your GitHub profile.

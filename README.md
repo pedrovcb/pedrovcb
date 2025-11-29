@@ -56,7 +56,9 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 </br>
 
 <div align='center'>
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedrovcb&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 <!---

@@ -3,9 +3,11 @@
 
 
 <h1 align='center'>
-Hey there☕ </br>I'm Pedro Bedor!!
+Hey there☕ </br>I'm Pedro V. C. Bedor!!
 </h1>
-Just a caffeine-powered computer science student diving into everything i can learn. </br> </br>
+<div align='center'>Just a caffeine-powered computer science student diving </br>into everything i can learn. 
+</div> 
+</br> </br>
 📌 Recife, Brasil  
 
 </br>
@@ -41,7 +43,8 @@ Just a caffeine-powered computer science student diving into everything i can le
 ## Currently Learning ✏️
 
 - More about Unity Development
-- 
+- Developing with Arduino
+- Google Cloud Computing
 
 <!---
 ## Currently Developing ⚙️

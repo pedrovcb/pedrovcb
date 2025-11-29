@@ -56,9 +56,13 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 </br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedrovcb&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrovcb)](https://github.com/anuraghazra/github-readme-stats)
 --->
+
+![Snake animation](https://github.com/pedrovcb/pedrovcb/blob/output/github-contribution-grid-snake.svg)
+
 </br>
 <h2 align='center'>
 Find me at:</br>

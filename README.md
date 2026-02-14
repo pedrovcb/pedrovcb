@@ -27,7 +27,7 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Battle.net](https://img.shields.io/badge/Bitsy-%2300AEFF.svg?style=for-the-badge)
+[![Bitsy](https://img.shields.io/badge/Bitsy-6767b2?style=for-the-badge&logo=bitsy&logoColor=white)](https://pedrovcb.itch.io/ismalia)
 
 ### Tools i use
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)

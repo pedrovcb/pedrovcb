@@ -16,27 +16,27 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 # Toolbox 🧰 (what i know)
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-%23092E20.svg?style=for-the-badge&logo=python&logoColor=white)
-![Html](https://img.shields.io/badge/HTML-%23092E20.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%23092E20.svg?style=for-the-badge&logo=css&logoColor=fff)
-![Javascript](https://img.shields.io/badge/JavaScript-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-%23092E20.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%23092E20.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23092E20.svg?style=for-the-badge&logo=cshrp&logoColor=white)
-![Md](https://img.shields.io/badge/Markdown-%23092E20.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-478061?style=for-the-badge&logo=python&logoColor=white)
+![Html](https://img.shields.io/badge/HTML-478061?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-478061?style=for-the-badge&logo=css&logoColor=fff)
+![Javascript](https://img.shields.io/badge/JavaScript-478061?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-478061?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-478061?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-478061?style=for-the-badge&logo=cshrp&logoColor=white)
+![Md](https://img.shields.io/badge/Markdown-478061?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Game Development
-![Unity](https://img.shields.io/badge/Unity-%23092E20.svg?style=for-the-badge&logo=unity&logoColor=white)
-[![Bitsy](https://img.shields.io/badge/Bitsy-%23092E20.svg?style=for-the-badge&logo=bitsy&logoColor=white)](https://pedrovcb.itch.io/ismalia)
+![Unity](https://img.shields.io/badge/Unity-478061?style=for-the-badge&logo=unity&logoColor=white)
+[![Bitsy](https://img.shields.io/badge/Bitsy-478061?style=for-the-badge&logo=bitsy&logoColor=white)](https://pedrovcb.itch.io/ismalia)
 
 ### Tools i use
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-%23092E20.svg?style=for-the-badge&logo=vsc&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%23092E20.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23092E20.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23092E20.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23092E20.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23092E20.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-%23092E20.svg?style=for-the-badge&logo=slack&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-478061?style=for-the-badge&logo=vsc&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-478061?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-478061?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-478061?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-478061?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-478061?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-478061?style=for-the-badge&logo=slack&logoColor=fff)
 
 </br>
 

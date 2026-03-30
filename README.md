@@ -37,6 +37,7 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 ![Figma](https://img.shields.io/badge/Figma-478061?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-478061?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-478061?style=for-the-badge&logo=slack&logoColor=fff)
+[![Django](https://img.shields.io/badge/Django-478061?style=for-the-badge&logo=django&logoColor=white)](#)
 
 </br>
 

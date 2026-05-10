@@ -7,8 +7,6 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 </h1>
 <div align='center'>Just a caffeine-powered computer science student diving </br>into everything i can learn. 
 </div> 
-</br> </br>
-📌 Recife, Brasil  
 
 </br>
 </br>
@@ -17,35 +15,41 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-478061?style=for-the-badge&logo=python&logoColor=white)
-![Html](https://img.shields.io/badge/HTML-478061?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-478061?style=for-the-badge&logo=css&logoColor=fff)
-![Javascript](https://img.shields.io/badge/JavaScript-478061?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-478061?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-478061?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-478061?style=for-the-badge&logo=cshrp&logoColor=white)
+![Html](https://img.shields.io/badge/HTML-478061?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-478061?style=for-the-badge&logo=css&logoColor=fff)
+![Javascript](https://img.shields.io/badge/JavaScript-478061?style=for-the-badge&logo=javascript&logoColor=white)
 ![Md](https://img.shields.io/badge/Markdown-478061?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-478061?style=for-the-badge&logo=unity&logoColor=white)
 [![Bitsy](https://img.shields.io/badge/Bitsy-478061?style=for-the-badge&logo=bitsy&logoColor=white)](https://pedrovcb.itch.io/ismalia)
+![RayLib](https://img.shields.io/badge/RAYLIB-478061?style=for-the-badge&logo=raylib&logoColor=white)
 
 ### Tools i use
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-478061?style=for-the-badge&logo=vsc&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-478061?style=for-the-badge&logo=arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-478061?style=for-the-badge&logo=github&logoColor=white)
+![Django](https://img.shields.io/badge/Django-478061?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-478061?style=for-the-badge&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-478061?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-478061?style=for-the-badge&logo=arduino&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-478061?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-478061?style=for-the-badge&logo=npm&logoColor=white)
+</br>
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-478061?style=for-the-badge&logo=vsc&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-478061?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-478061?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-478061?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-478061?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-478061?style=for-the-badge&logo=slack&logoColor=fff)
-[![Django](https://img.shields.io/badge/Django-478061?style=for-the-badge&logo=django&logoColor=white)](#)
+![Slack](https://img.shields.io/badge/Slack-478061?style=for-the-badge&logo=slack&logoColor=white)
 
 </br>
 
 ## Currently Learning ✏️
 
-- More about Unity Development
-- Developing with Arduino
-- Google Cloud Computing
+- Front-End with React
+- Back-End with Django
+- Developing with Unity
 
 <!---
 ## Currently Developing ⚙️
@@ -73,8 +77,8 @@ Find me at:</br>
 
 <div align='center'>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pedrovcb@gmail.com)
-[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://pedrovcb.itch.io/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pedrobedor/)
+[![Gmail](https://img.shields.io/badge/Gmail-478061?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrovcb@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-478061?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pedrobedor/)
+[![Itch.io](https://img.shields.io/badge/itch.io-478061?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pedrovcb.itch.io/)
 
 </div>

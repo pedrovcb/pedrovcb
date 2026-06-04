@@ -25,8 +25,9 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-478061?style=for-the-badge&logo=unity&logoColor=white)
-[![Bitsy](https://img.shields.io/badge/Bitsy-478061?style=for-the-badge&logo=bitsy&logoColor=white)](https://pedrovcb.itch.io/ismalia)
+![Godot Engine](https://img.shields.io/badge/GODOT-478061?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![RayLib](https://img.shields.io/badge/RAYLIB-478061?style=for-the-badge&logo=raylib&logoColor=white)
+[![Bitsy](https://img.shields.io/badge/Bitsy-478061?style=for-the-badge&logo=bitsy&logoColor=white)](https://pedrovcb.itch.io/ismalia)
 
 ### Tools i use
 ![Django](https://img.shields.io/badge/Django-478061?style=for-the-badge&logo=django&logoColor=white)

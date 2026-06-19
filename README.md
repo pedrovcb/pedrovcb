@@ -36,6 +36,7 @@ Hey there☕ </br>I'm Pedro V. C. Bedor!!
 ![Arduino](https://img.shields.io/badge/Arduino-478061?style=for-the-badge&logo=arduino&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-478061?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-478061?style=for-the-badge&logo=npm&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-478061?style=for-the-badge&logo=postgresql&logoColor=white)
 </br>
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-478061?style=for-the-badge&logo=vsc&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-478061?style=for-the-badge&logo=linux&logoColor=white)
